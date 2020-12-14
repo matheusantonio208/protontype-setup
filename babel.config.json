@@ -1,0 +1,96 @@
+{
+  "presets": [
+    "@babel/preset-react",
+    [
+      "@babel/preset-env",
+      {
+        "targets": {
+          "node": "current"
+        }
+      }
+    ]
+  ],
+  "plugins": [
+    "@babel/plugin-proposal-class-properties",
+    [
+      "babel-plugin-root-import",
+      {
+        "paths": [
+          {
+            "rootPathSuffix": "./src",
+            "rootPathPrefix": "~/"
+          },
+          {
+            "rootPathSuffix": "./src/controllers",
+            "rootPathPrefix": "#controllers/"
+          },
+          {
+            "rootPathSuffix": "./src/jobs",
+            "rootPathPrefix": "#jobs/"
+          },
+          {
+            "rootPathSuffix": "./src/views",
+            "rootPathPrefix": "#views/"
+          },
+          {
+            "rootPathSuffix": "./lib",
+            "rootPathPrefix": "#lib/"
+          },
+          {
+            "rootPathSuffix": "./src/middlewares",
+            "rootPathPrefix": "#middlewares/"
+          },
+          {
+            "rootPathSuffix": "./config",
+            "rootPathPrefix": "#config/"
+          },
+          {
+            "rootPathSuffix": "./models",
+            "rootPathPrefix": "#models/"
+          },
+          {
+            "rootPathSuffix": "./src/schemas",
+            "rootPathPrefix": "#schemas/"
+          },
+          {
+            "rootPathSuffix": "./src/services",
+            "rootPathPrefix": "#services/"
+          },
+          {
+            "rootPathSuffix": "./src/utils",
+            "rootPathPrefix": "#utils/"
+          },
+          {
+            "rootPathSuffix": "./src/views/styles",
+            "rootPathPrefix": "#styles/"
+          },
+          {
+            "rootPathSuffix": "./src/views/assets",
+            "rootPathPrefix": "#assets/"
+          },
+          {
+            "rootPathSuffix": "./src/views/layouts",
+            "rootPathPrefix": "#layouts/"
+          },
+          {
+            "rootPathSuffix": "./src/views/pages",
+            "rootPathPrefix": "#pages/"
+          },
+          {
+            "rootPathSuffix": "./src/views/partials",
+            "rootPathPrefix": "#partials/"
+          },
+          {
+            "rootPathSuffix": "./src/views/components",
+            "rootPathPrefix": "#components/"
+          },
+          {
+            "rootPathSuffix": "./src/views/behaviors",
+            "rootPathPrefix": "#behaviors/"
+          }
+        ]
+      }
+    ],
+    "@babel/plugin-transform-modules-commonjs"
+  ]
+}

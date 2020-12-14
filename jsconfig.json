@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "#lib/*": ["./lib/*"],
+      "#services/*": ["./services/*"],
+      "#utils/*": ["./src/utils/*"],
+      "#config/*": ["./config/*"],
+      "#middlewares/*": ["./src/middlewares/*"],
+      "#controllers/*": ["./src/controllers/*"],
+      "#jobs/*": ["./src/jobs/*"],
+      "#views/*": ["./src/views/*"],
+      "#models/*": ["./src/models/*"],
+      "#schemas/*": ["./src/schemas/*"],
+
+      "#styles/*": ["./src/views/styles/*"],
+      "#assets/*": ["./src/views/assets/*"],
+      "#layouts/*": ["./src/views/layouts/*"],
+      "#pages/*": ["./src/views/pages/*"],
+      "#partials/*": ["./src/views/partials/*"],
+      "#components/*": ["./src/views/components/*"],
+      "#behaviors/*": ["./src/views/behaviors/*"]
+    }
+  }
+}

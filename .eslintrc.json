@@ -1,0 +1,158 @@
+{
+  "env": {
+    "es2021": true
+  },
+  "extends": [
+    "airbnb-base",
+    "prettier",
+    "plugin:react/recommended",
+    "prettier/react"
+  ],
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 12,
+    "sourceType": "module"
+  },
+  "plugins": [
+    "prettier",
+    "import-helpers",
+    "react",
+    "react-hooks"],
+  "rules": {
+    "react/static-property-placement":"off",
+    "react/jsx-filename-extension": ["warn", {"extensions": [".jsx", ".js"] } ],
+    "react/state-in-constructor":"off",
+    "no-console": ["error",{"allow": ["tron"]}],
+    "react/jsx-props-no-spreading": "off",
+    "react-hooks/rules-of-hooks": "error",
+
+    "prettier/prettier": [
+      "error",
+      {
+        "endOfLine": "auto"
+      }
+    ],
+    "no-underscore-dangle":["error", {"allow": ["_id"]}],
+    "import/prefer-default-export": "off",
+    "import/extensions": ["error", "always"],
+    "class-methods-use-this": "off",
+    "no-param-reassign": "off",
+    "camelcase": "off",
+    "no-unused-vars": [
+      "error",
+      {
+        "argsIgnorePattern": "next"
+      }
+    ],
+    "import-helpers/order-imports": [
+      "warn",
+      {
+        "newlinesBetween": "always",
+        "groups": [
+          "module",
+          "/^@shared/",
+          "/^~/",
+          "/^#lib/",
+          "/^#services/",
+          "/^#utils/",
+          "/^#config/",
+          "/^#middlewares/",
+          "/^#controllers/",
+          "/^#jobs/",
+          "/^#views/",
+          "/^#models/",
+          "/^#schemas/",
+          "/^#styles/",
+          "/^#assets/",
+          "/^#layouts/",
+          "/^#pages/",
+          "/^#partials/",
+          "/^#components/",
+          "/^#behaviors/",
+          ["parent", "sibling", "index"]
+        ],
+        "alphabetize": {
+          "order": "asc",
+          "ignoreCase": true
+        }
+      }
+    ]
+  },
+  "settings": {
+    "import/resolver": {
+      "babel-plugin-root-import": [
+        {
+          "rootPathSuffix": "./lib",
+          "rootPathPrefix": "#lib/"
+        },
+        {
+          "rootPathSuffix": "./src/services",
+          "rootPathPrefix": "#services/"
+        },
+        {
+          "rootPathSuffix": "./src/utils",
+          "rootPathPrefix": "#utils/"
+        },
+        {
+          "rootPathSuffix": "./config",
+          "rootPathPrefix": "#config/"
+        },
+        {
+          "rootPathSuffix": "./src/middlewares",
+          "rootPathPrefix": "#middlewares/"
+        },
+        {
+          "rootPathSuffix": "./src/controllers",
+          "rootPathPrefix": "#controllers/"
+        },
+        {
+          "rootPathSuffix": "./src/jobs",
+          "rootPathPrefix": "#jobs/"
+        },
+        {
+          "rootPathSuffix": "./src/views",
+          "rootPathPrefix": "#views/"
+        },
+        {
+          "rootPathSuffix": "./src/models",
+          "rootPathPrefix": "#models/"
+        },
+        {
+          "rootPathSuffix": "./src/schemas",
+          "rootPathPrefix": "#schemas/"
+        },
+        {
+          "rootPathSuffix": "./src/views/styles",
+          "rootPathPrefix": "#styles/"
+        },
+        {
+          "rootPathSuffix": "./src/views/assets",
+          "rootPathPrefix": "#assets/"
+        },
+        {
+          "rootPathSuffix": "./src/views/layouts",
+          "rootPathPrefix": "#layouts/"
+        },
+        {
+          "rootPathSuffix": "./src/views/pages",
+          "rootPathPrefix": "#pages/"
+        },
+        {
+          "rootPathSuffix": "./src/views/partials",
+          "rootPathPrefix": "#partials/"
+        },
+        {
+          "rootPathSuffix": "./src/views/components",
+          "rootPathPrefix": "#components/"
+        },
+        {
+          "rootPathSuffix": "./src/views/behaviors",
+          "rootPathPrefix": "#behaviors/"
+        }
+      ]
+    }
+  }
+}
