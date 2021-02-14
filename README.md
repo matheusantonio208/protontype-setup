@@ -52,7 +52,7 @@ We aim at the security of information transferred from end to end through the ap
   - Checkbox
   - DatePicker
   - EmojiPicker
-  - Fomr
+  - Form
 - **Indicators**
   - Weekdays
 - **Navbars**
@@ -60,6 +60,16 @@ We aim at the security of information transferred from end to end through the ap
 - **Tables**
   - Colored
   - Outline
+
+### ▶️ Get Started
+---
+1. <a href="https://github.com/matheusantonio208/protontype/archive/main.zip">Download</a> or clone repository with `git clone https://github.com/matheusantonio208/protontype.git`
+2. Navigate to the project's root folder `cd ~/protontype`
+3. Run `yarn install`
+4. Run in local `yarn dev`
+5. Build to production `yarn build`
+<br/>
+Or click in [![Gitpod Ready-to-Code](https://img.shields.io/badge/Code-Gitpod-blue?logo=gitpod)](https://gitpod.io/#https://gitlab.com/matheusantonio208/pillife)
 
 ### :bug: Bugs and feature requests
 ---
