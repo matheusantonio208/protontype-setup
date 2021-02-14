@@ -1,7 +1,7 @@
 import { transparentize, darken, lighten } from 'polished';
 import styled, { css } from 'styled-components';
 
-import { color } from '#components/_global/global-vars.js';
+import { color } from '#pages/_global/global-vars.js';
 
 const handleImagePosition = (position) => {
   switch (position) {

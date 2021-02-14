@@ -22,8 +22,6 @@ export default createGlobalStyle`
     height: 100%;
     line-height: 1.15;
     background-color: ${color.light};
-    -webkit-text-size-adjust: 100%;
-    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   }
 
   article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {

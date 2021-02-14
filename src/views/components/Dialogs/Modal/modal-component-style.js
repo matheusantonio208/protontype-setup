@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-import { zindex } from '#components/_global/global-vars.js';
+import { zindex } from '#pages/_global/global-vars.js';
 
 export const Container = styled.div`
   backdrop-filter: blur(0.3571rem);

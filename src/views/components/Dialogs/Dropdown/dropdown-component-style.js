@@ -1,7 +1,7 @@
 import { lighten } from 'polished';
 import styled, { css } from 'styled-components';
 
-import { color, radius, zindex } from '#components/_global/global-vars.js';
+import { color, radius, zindex } from '#pages/_global/global-vars.js';
 
 export const Container = styled.div`
   position: absolute;

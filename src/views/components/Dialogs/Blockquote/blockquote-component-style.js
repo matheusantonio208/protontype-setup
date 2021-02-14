@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-import { color } from '#components/_global/global-vars.js';
+import { color } from '#pages/_global/global-vars.js';
 
 export const Container = styled.blockquote`
   background: #f9f9f9;

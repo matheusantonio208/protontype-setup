@@ -1,7 +1,7 @@
 import { darken, transparentize } from 'polished';
 import styled, { css } from 'styled-components';
 
-import { color, radius } from '#components/_global/global-vars.js';
+import { color, radius } from '#pages/_global/global-vars.js';
 
 const handleSize = (size) => {
   switch (size) {

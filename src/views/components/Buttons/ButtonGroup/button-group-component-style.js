@@ -1,6 +1,6 @@
 import styled, { css } from 'styled-components';
 
-import { radius } from '#components/_global/global-vars.js';
+import { radius } from '#pages/_global/global-vars.js';
 
 const handleDirection = (direction) => {
   switch (direction) {

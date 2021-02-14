@@ -2,7 +2,7 @@ import { Form, Input } from '@rocketseat/unform';
 import { transparentize } from 'polished';
 import styled, { css } from 'styled-components';
 
-import { color } from '#components/_global/global-vars.js';
+import { color } from '#pages/_global/global-vars.js';
 
 export const Container = styled(Form)`
   display: flex;
