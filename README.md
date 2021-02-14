@@ -83,7 +83,7 @@ Currently the list of components and features contains the following:
 2. Navigate to the project's root folder `cd ~/protontype`
 3. Run `yarn install`
 4. Run in local `yarn dev`
-   4.1.  Access the application through `http://localhost:8080/`
+   1. Access the application through `http://localhost:8080/`
 5. Build to production `yarn build`
 
 Or click in [![Gitpod Ready-to-Code](https://img.shields.io/badge/Code-Gitpod-blue?logo=gitpod)](https://gitpod.io/#https://gitlab.com/matheusantonio208/pillife)
