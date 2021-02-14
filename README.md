@@ -43,7 +43,7 @@ We aim at the security of information transferred from end to end through the ap
 </p>
 
 ### Table of Contents
-- [Get Started](#log-get-started)
+- [Get Started](#arrow-forward-get-started)
 -
 
 ### 🧊 Components and Features
@@ -88,7 +88,7 @@ Currently the list of components and features contains the following:
   - Colored
   - Outline
 
-### ▶️ Get Started
+### :arrow_forward: Get Started
 ---
 1. <a href="https://github.com/matheusantonio208/protontype/archive/main.zip">Download</a> or clone repository with `git clone https://github.com/matheusantonio208/protontype.git`
 2. Navigate to the project's root folder `cd ~/protontype`
