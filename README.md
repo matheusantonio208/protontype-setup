@@ -35,8 +35,24 @@ Our program is oriented to "How can I make even a child understand what is writt
 We aim at the security of information transferred from end to end through the application modules.
 </p>
 
-### 🧊 Components
+### 🧊 Components and Features
 -----
+Currently the list of components and features contains the following:
+- **Globals**
+  - Grids
+  - Text Colored
+  - Text Headers
+  - Text Body
+  - Text Legends
+  - Small Text
+  - Borders
+  - Backgrouds
+  - Shadows
+  - Spacing
+  - Image Responsive
+  - Image Tumbnail
+  - Code Inline
+  - Code Block
 - **Buttons**
   - Colored
   - Outline
