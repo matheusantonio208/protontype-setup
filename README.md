@@ -100,7 +100,7 @@ Currently the list of components and features contains the following:
 6. Build to production `yarn build`
 
 <p align="center">
-Or click in <a href="https://gitpod.io/#https://gitlab.com/matheusantonio208/pillife" target="__blank"><img src="https://img.shields.io/badge/Start-Gitpod-blue?logo=gitpod" alt="Gitpod Ready-to-Code"></a>
+Or click in <a href="https://gitpod.io/#https://github.com/matheusantonio208/protontype" target="__blank"><img src="https://img.shields.io/badge/Start-Gitpod-blue?logo=gitpod" alt="Gitpod Ready-to-Code"></a>
 </p>
 
 
