@@ -29,8 +29,14 @@ We aim at the security of information transferred from end to end through the ap
 -----
 ####**Buttons**
 **Colors**
-<img src="https://i.imgur.com/N0HK0sJ.png" alt="Size Buttons" width="500">
+<p>
+<img src="https://i.imgur.com/N0HK0sJ.png" alt="Size Buttons" width="500"/>
+</p>
 **Outline**
-<img src="https://i.imgur.com/G5mgp9u.png" alt="Size Buttons" width="500">
+<p>
+<img src="https://i.imgur.com/G5mgp9u.png" alt="Size Buttons" width="500"/>
+</p>
 **Sizes**
-<img src="https://i.imgur.com/WYwoSSg.png" alt="Size Buttons" width="150">
+<p>
+<img src="https://i.imgur.com/WYwoSSg.png" alt="Size Buttons" width="150"/>
+</p>
