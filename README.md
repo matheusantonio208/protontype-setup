@@ -108,5 +108,5 @@ Or click in [![Gitpod Ready-to-Code](https://img.shields.io/badge/Code-Gitpod-bl
 Have a bug or a feature request? Please first read the issue guidelines and search for existing and closed issues. If your problem or idea is not addressed yet, <a href="https://github.com/matheusantonio208/protontype/issues/new">please open a new issue</a>.
 
 <p align="center">
-Make with 💚
+Make with 💚 by Matheus Antonio
 </p>
