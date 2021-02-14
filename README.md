@@ -49,6 +49,7 @@ We aim at the security of information transferred from end to end through the ap
 - [### :diamond_shape_with_a_dot_inside: Components and Features](#-diamond_shape_with_a_dot_inside-components-and-features)
 - [### :arrow_forward: Get Started](#-arrow_forward-get-started)
 - [### :bug: Bugs and feature requests](#-bug-bugs-and-feature-requests)
+- [Have a bug or a feature request? Please first read the issue guidelines and search for existing and closed issues. If your problem or idea is not addressed yet, <a href="https://github.com/matheusantonio208/protontype/issues/new">please open a new issue</a>.](#have-a-bug-or-a-feature-request-please-first-read-the-issue-guidelines-and-search-for-existing-and-closed-issues-if-your-problem-or-idea-is-not-addressed-yet-please-open-a-new-issue)
 
 ### :diamond_shape_with_a_dot_inside: Components and Features
 -----
@@ -106,7 +107,7 @@ Or click in [![Gitpod Ready-to-Code](https://img.shields.io/badge/Code-Gitpod-bl
 ### :bug: Bugs and feature requests
 ---
 Have a bug or a feature request? Please first read the issue guidelines and search for existing and closed issues. If your problem or idea is not addressed yet, <a href="https://github.com/matheusantonio208/protontype/issues/new">please open a new issue</a>.
-
+---
 <p align="center">
 Make with 💚 by Matheus Antonio
 </p>
