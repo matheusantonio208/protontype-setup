@@ -4,5 +4,7 @@ A beautiful and minimal react js framework.
 </p>
 
 <p align="center">
-<a href="https://github.com/tabler/tabler" target="__blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/tabler/tabler?style=social"></a>
+<a href="https://github.com/matheusantonio208/protontype" target="__blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/matheusantonio208/protontype?style=social"></a>
+
+<a href="https://github.com/matheusantonio208/protontype/blob/main/LICENSE"><img src="https://img.shields.io/github/license/matheusantonio208/protontype?label=License&message=MIT&color=1c7ed6" alt="License"></a>
 </p>
