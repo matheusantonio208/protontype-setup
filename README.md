@@ -37,16 +37,30 @@ We aim at the security of information transferred from end to end through the ap
 
 ### 🧊 Components
 -----
-####Buttons
-**Colors**
-<p>
-<img src="https://i.imgur.com/N0HK0sJ.png" alt="Size Buttons"/>
-</p>
-**Outline**
-<p>
-<img src="https://i.imgur.com/G5mgp9u.png" alt="Size Buttons"/>
-</p>
-**Sizes**
-<p>
-<img src="https://i.imgur.com/WYwoSSg.png" alt="Size Buttons" width="150"/>
-</p>
+- **Buttons**
+  - Colored
+  - Outline
+  - Group
+- **Container**
+  - Card
+  - Collapse
+- **Dialogs**
+  - Blockquote
+  - Dropdown
+  - Modal
+- **Forms**
+  - Checkbox
+  - DatePicker
+  - EmojiPicker
+  - Fomr
+- **Indicators**
+  - Weekdays
+- **Navbars**
+  - Sidebar
+- **Tables**
+  - Colored
+  - Outline
+
+### :bug: Bugs and feature requests
+---
+Have a bug or a feature request? Please first read the issue guidelines and search for existing and closed issues. If your problem or idea is not addressed yet, <a href="https://github.com/matheusantonio208/protontype/issues/new">please open a new issue</a>.
