@@ -44,9 +44,11 @@ We aim at the security of information transferred from end to end through the ap
 
 ### :bookmark_tabs:Table of Contents
 ---
-- [Get Started](#arrow_forward-get-started)
-- [Components and Features](#diamond_shape_with_a_dot_inside-components-and-features)
-- [Bugs and feature requests](#bug-and-feature-requests)
+- [### ⛩️ Philosophy](#-️-philosophy)
+- [### :bookmark_tabs:Table of Contents](#-bookmark_tabstable-of-contents)
+- [### :diamond_shape_with_a_dot_inside: Components and Features](#-diamond_shape_with_a_dot_inside-components-and-features)
+- [### :arrow_forward: Get Started](#-arrow_forward-get-started)
+- [### :bug: Bugs and feature requests](#-bug-bugs-and-feature-requests)
 
 ### :diamond_shape_with_a_dot_inside: Components and Features
 -----
@@ -104,3 +106,7 @@ Or click in [![Gitpod Ready-to-Code](https://img.shields.io/badge/Code-Gitpod-bl
 ### :bug: Bugs and feature requests
 ---
 Have a bug or a feature request? Please first read the issue guidelines and search for existing and closed issues. If your problem or idea is not addressed yet, <a href="https://github.com/matheusantonio208/protontype/issues/new">please open a new issue</a>.
+
+<p align="center">
+Make with 💚
+</p>
