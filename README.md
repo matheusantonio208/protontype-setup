@@ -11,23 +11,33 @@
 ### ⛩️ Philosophy
 ------
 **Performatic**
+<p>
 We seek to develop the best solution, spending the least amount of client / server processing, delivering the most fluid solution possible.
+</p>
 
 **Robust**
+<p>
 We aim to develop an elegant, efficient and healthy code - avoiding duplication of code, having a clear and unique "what to do?" and the "how to do it?" - with complete and efficient error handling, together with a battery of tests that spells out the business rules according to a clear strategy in order to avoid confusion with code tangle.
+</p>
 
 **Scalable**
+<p>
 We use a modular architecture, with its modules separated by contexts, making it easier to maintain and scale the application over time, without harming other parts of the project.
+</p>
 
 **Simple**
+<p>
 Our program is oriented to "How can I make even a child understand what is written, and even a monkey can use it?"
+</p>
 
 **Safe**
+<p>
 We aim at the security of information transferred from end to end through the application modules.
+</p>
 
 ### 🧊 Components
 -----
-####**Buttons**
+####Buttons
 **Colors**
 <p>
 <img src="https://i.imgur.com/N0HK0sJ.png" alt="Size Buttons"/>
