@@ -43,7 +43,7 @@ We aim at the security of information transferred from end to end through the ap
 </p>
 
 ### Table of Contents
-- [Get Started](#get-started)
+- [Get Started](#log-get-started)
 -
 
 ### 🧊 Components and Features
