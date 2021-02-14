@@ -101,7 +101,10 @@ Currently the list of components and features contains the following:
 
 <p align="center">
 
-Or click in [![Gitpod Ready-to-Code](https://img.shields.io/badge/Code-Gitpod-blue?logo=gitpod)](https://gitpod.io/#https://gitlab.com/matheusantonio208/pillife)
+Or click in <a href="https://gitpod.io/#https://gitlab.com/matheusantonio208/pillife" target="__blank"><img src="https://img.shields.io/badge/Code-Gitpod-blue?logo=gitpod" alt="Gitpod Ready-to-Code"></a>
+</p>
+
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Code-Gitpod-blue?logo=gitpod)](https://gitpod.io/#https://gitlab.com/matheusantonio208/pillife)
 </p>
 
 ### :bug: Bugs and feature requests
