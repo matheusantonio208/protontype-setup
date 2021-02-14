@@ -30,11 +30,11 @@ We aim at the security of information transferred from end to end through the ap
 ####**Buttons**
 **Colors**
 <p>
-<img src="https://i.imgur.com/N0HK0sJ.png" alt="Size Buttons" width="500"/>
+<img src="https://i.imgur.com/N0HK0sJ.png" alt="Size Buttons"/>
 </p>
 **Outline**
 <p>
-<img src="https://i.imgur.com/G5mgp9u.png" alt="Size Buttons" width="500"/>
+<img src="https://i.imgur.com/G5mgp9u.png" alt="Size Buttons"/>
 </p>
 **Sizes**
 <p>
