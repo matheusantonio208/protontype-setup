@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://github.com/matheusantonio208/protontype"><img src="https://github.com/matheusantonio208/protontype/blob/main/.branding/logo-protontype-git.svg" alt="A beautiful and minimal react js framework." width="350"></a><br><br>
-A beautiful and minimal react js framework.
+<a href="https://github.com/matheusantonio208/protontype"><img src="https://github.com/matheusantonio208/protontype/blob/main/.branding/logo-protontype-git.svg" alt="A beautiful and minimal react js framework." width="350"></a><br>
+Performing, Robust, Scalable, Simple and Safe.
 </p>
 <p align="center">
 <a href="https://github.com/matheusantonio208/protontype" target="__blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/matheusantonio208/protontype?style=social"></a>
