@@ -42,11 +42,13 @@ Our program is oriented to "How can I make even a child understand what is writt
 We aim at the security of information transferred from end to end through the application modules.
 </p>
 
-### Table of Contents
-- [Get Started](#arrow-forward-get-started)
--
+### :bookmark_tabs:Table of Contents
+---
+- [Get Started](#arrow_forward-get-started)
+- [Components and Features](#diamond_shape_with_a_dot_inside-components-and-features)
+- [Bugs and feature requests](#bug-and-feature-requests)
 
-### 🧊 Components and Features
+### :diamond_shape_with_a_dot_inside: Components and Features
 -----
 Currently the list of components and features contains the following:
 - **Globals**
