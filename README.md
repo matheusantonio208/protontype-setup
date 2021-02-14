@@ -13,6 +13,8 @@
 <b>Project Status:</b>  In development
 </p>
 </blockquote>
+
+
 ### ⛩️ Philosophy
 ------
 **Performatic**
