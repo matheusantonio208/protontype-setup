@@ -44,11 +44,9 @@ We aim at the security of information transferred from end to end through the ap
 
 ### :bookmark_tabs:Table of Contents
 ---
-- [### ⛩️ Philosophy](#-️-philosophy)
-- [### :bookmark_tabs:Table of Contents](#-bookmark_tabstable-of-contents)
-- [### :diamond_shape_with_a_dot_inside: Components and Features](#-diamond_shape_with_a_dot_inside-components-and-features)
-- [### :arrow_forward: Get Started](#-arrow_forward-get-started)
-- [### :bug: Bugs and feature requests](#-bug-bugs-and-feature-requests)
+- [Get Started](#arrow_forward-get-started)
+- [Components and Features](#diamond_shape_with_a_dot_inside-components-and-features)
+- [Bugs and feature requests](#bug-and-feature-requests)
 
 ### :diamond_shape_with_a_dot_inside: Components and Features
 -----
