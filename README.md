@@ -68,7 +68,7 @@ We aim at the security of information transferred from end to end through the ap
 3. Run `yarn install`
 4. Run in local `yarn dev`
 5. Build to production `yarn build`
-  <br/>
+
 Or click in [![Gitpod Ready-to-Code](https://img.shields.io/badge/Code-Gitpod-blue?logo=gitpod)](https://gitpod.io/#https://gitlab.com/matheusantonio208/pillife)
 
 ### :bug: Bugs and feature requests
