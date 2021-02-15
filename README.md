@@ -12,6 +12,12 @@
 <b>Project Status:</b>  In development ⚠️
 </p>
 
+### :bookmark_tabs:Table of Contents
+---
+- [Philosophy](#%EF%B8%8F-philosophy)
+- [Get Started](#arrow_forward-get-started)
+- [Components and Features](#diamond_shape_with_a_dot_inside-components-and-features)
+- [Bugs and feature requests](#bug-and-feature-requests)
 
 ### ⛩️ Philosophy
 ------
@@ -39,12 +45,6 @@ Our program is oriented to "How can I make even a child understand what is writt
 <p>
 We aim at the security of information transferred from end to end through the application modules.
 </p>
-
-### :bookmark_tabs:Table of Contents
----
-- [Get Started](#arrow_forward-get-started)
-- [Components and Features](#diamond_shape_with_a_dot_inside-components-and-features)
-- [Bugs and feature requests](#bug-and-feature-requests)
 
 ### :diamond_shape_with_a_dot_inside: Components and Features
 -----
