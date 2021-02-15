@@ -1,8 +1,5 @@
 <p align="center">
 <a href="https://github.com/matheusantonio208/protontype"><img src="https://github.com/matheusantonio208/protontype/blob/main/.branding/logo-protontype-git.svg" alt="A beautiful and minimal react js framework." width="350"></a><br>
-
----
-
 "Simplicity is the ultimate sophistication" -Leonardo da Vinci
 </p>
 <p align="center">
