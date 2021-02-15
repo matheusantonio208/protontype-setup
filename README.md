@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-
-[Philosophy](#%EF%B8%8F-philosophy) | [Get Started](#arrow_forward-get-started) | [Components and Features](#diamond_shape_with_a_dot_inside-components-and-features) | [Bugs and feature requests](#bug-and-feature-requests)
+<a href="https://github.com/matheusantonio208/protontype#%EF%B8%8F-philosophy"> Philosophy </a> | <a href="https://github.com/matheusantonio208/protontype#arrow_forward-get-started"> Get Started </a> | <a href="https://github.com/matheusantonio208/protontype#diamond_shape_with_a_dot_inside-components-and-features"> Components and Features </a> | <a href="https://github.com/matheusantonio208/protontype#bug-bugs-and-feature-requests"> Bugs and feature requests </a>
 </p>
+
 
 ### ⛩️ Philosophy
 ------
