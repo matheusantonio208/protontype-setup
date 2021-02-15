@@ -6,7 +6,7 @@
 <a href="https://github.com/matheusantonio208/protontype" target="__blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/matheusantonio208/protontype?style=social"></a>
 <a href="https://github.com/matheusantonio208/protontype/blob/main/LICENSE"><img src="https://img.shields.io/github/license/matheusantonio208/protontype?label=License&message=MIT&color=green" alt="License"></a>
 <a href="https://github.com/matheusantonio208/protontype/archive/main.zip" target="__blank"><img src="https://img.shields.io/static/v1?label=Download&message=ZIP&color=green" alt="Protontype preview"></a>
-<a href="https://gitpod.io/#https://github.com/matheusantonio208/protontype" target="__blank"><img src="https://img.shields.io/badge/Start-Gitpod-green?logo=gitpod" alt="Gitpod Ready-to-Code"></a>
+<a href="https://gitpod.io/#https://github.com/matheusantonio208/protontype" target="__blank"><img src="https://img.shields.io/badge/Code-Gitpod-green?logo=gitpod" alt="Gitpod Ready-to-Code"></a>
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ Currently the list of components and features contains the following:
 6. Build to production `yarn build`
 
 <p align="center">
-or <a href="https://gitpod.io/#https://github.com/matheusantonio208/protontype" target="__blank"><img src="https://img.shields.io/badge/Start-Gitpod-green?logo=gitpod" alt="Gitpod Ready-to-Code"></a>
+<a href="https://gitpod.io/#https://github.com/matheusantonio208/protontype" target="__blank"><img src="https://img.shields.io/badge/Code-Gitpod-green?logo=gitpod" alt="Gitpod Ready-to-Code"></a>
 </p>
 
 
