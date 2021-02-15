@@ -1,5 +1,8 @@
 <p align="center">
 <a href="https://github.com/matheusantonio208/protontype"><img src="https://github.com/matheusantonio208/protontype/blob/main/.branding/logo-protontype-git.svg" alt="A beautiful and minimal react js framework." width="350"></a><br>
+
+---
+
 "Simplicity is the ultimate sophistication" -Leonardo da Vinci
 </p>
 <p align="center">
@@ -12,7 +15,6 @@
 <a href="https://github.com/matheusantonio208/protontype#%EF%B8%8F-philosophy"> Philosophy </a> | <a href="https://github.com/matheusantonio208/protontype#arrow_forward-get-started"> Get Started </a> | <a href="https://github.com/matheusantonio208/protontype#diamond_shape_with_a_dot_inside-components-and-features"> Components and Features </a> | <a href="https://github.com/matheusantonio208/protontype#bug-bugs-and-feature-requests"> Bugs and feature requests </a>
 </p>
 
----
 <p align="center">
 <b>Project Status:</b>  In development ⚠️
 </p>
