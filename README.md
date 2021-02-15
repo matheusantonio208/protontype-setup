@@ -44,6 +44,19 @@ Our program is oriented to "How can I make even a child understand what is writt
 We aim at the security of information transferred from end to end through the application modules.
 </p>
 
+### :arrow_forward: Get Started
+---
+1. <a href="https://github.com/matheusantonio208/protontype/archive/main.zip">Download</a> or clone repository with `git clone https://github.com/matheusantonio208/protontype.git`
+2. Navigate to the project's root folder `cd ~/protontype`
+3. Run `yarn install`
+4. Run in local `yarn dev`
+5. Access the application through `http://localhost:8080/`
+6. Build to production `yarn build`
+
+<p align="center">
+<a href="https://gitpod.io/#https://github.com/matheusantonio208/protontype" target="__blank"><img src="https://img.shields.io/badge/Code-Gitpod-green?logo=gitpod" alt="Gitpod Ready-to-Code"></a>
+</p>
+
 ### :diamond_shape_with_a_dot_inside: Components and Features
 -----
 Currently the list of components and features contains the following:
@@ -85,20 +98,6 @@ Currently the list of components and features contains the following:
 - **Tables**
   - Colored
   - Outline
-
-### :arrow_forward: Get Started
----
-1. <a href="https://github.com/matheusantonio208/protontype/archive/main.zip">Download</a> or clone repository with `git clone https://github.com/matheusantonio208/protontype.git`
-2. Navigate to the project's root folder `cd ~/protontype`
-3. Run `yarn install`
-4. Run in local `yarn dev`
-5. Access the application through `http://localhost:8080/`
-6. Build to production `yarn build`
-
-<p align="center">
-<a href="https://gitpod.io/#https://github.com/matheusantonio208/protontype" target="__blank"><img src="https://img.shields.io/badge/Code-Gitpod-green?logo=gitpod" alt="Gitpod Ready-to-Code"></a>
-</p>
-
 
 ### :bug: Bugs and feature requests
 ---
