@@ -8,11 +8,9 @@
 <a href="https://github.com/matheusantonio208/protontype/archive/main.zip" target="__blank"><img src="https://img.shields.io/static/v1?label=Download&message=ZIP&color=green" alt="Protontype preview"></a>
 </p>
 
-<blockquote>
 <p align="center">
 <b>Project Status:</b>  In development ⚠️
 </p>
-</blockquote>
 
 
 ### ⛩️ Philosophy
